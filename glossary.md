@@ -5,7 +5,7 @@
 * Artisans
 
 ## B
-Blank
+* Blank
 
 ## C
 Case
