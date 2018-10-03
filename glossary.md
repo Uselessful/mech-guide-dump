@@ -1,8 +1,8 @@
-Глоссарий
+#Глоссарий
 ## A
-ABS
-ANSI
-Artisans
+* ABS
+* ANSI
+* Artisans
 
 ## B
 Blank
